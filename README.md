@@ -13,5 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GinkoTyping)](https://github.com/anuraghazra/github-readme-stats)
+-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GinkoTyping)](https://github.com/anuraghazra/github-readme-stats)<br>
+💻 Frontend Developer / ✍️ Architect / 📷 Live Streamer
+## About Me
+- ⌨️ Senior Frontend Developer / Unity learner / Java Learner
+- 🏃 I Was working as an architectural designer, then I switched careers to become a software developer
+- ✈️ Now I work as an freelancer, open to work
