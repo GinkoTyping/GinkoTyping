@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 💻 Frontend Developer / ✍️ Architect / 📷 Live Streamer
 ## About Me
 - ⌨️ Senior Frontend Developer / Unity learner / Java Learner
-- 🏃 I Was working as an architectural designer, then I switched careers to become a software developer
-- ✈️ Now I work as an freelancer, open to work
+- 🏃 Was working as an architectural designer, then switched careers to become a software developer
+- ✈️ Now work as an freelancer, open to work
