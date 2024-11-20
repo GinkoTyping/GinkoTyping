@@ -22,4 +22,3 @@ Here are some ideas to get you started:
 - 😄 Was an [**architectural designer**](https://github.com/GinkoTyping/architecture/blob/main/readme.md) primarily engaged in industrial architectural design from 2015
 - 🏃 Began my career as a software developer entirely through **self-study** since 2020 and then joined **Huawei** in Shanghai
 - ✈️ Now work as an freelancer, **open to work**
-[link]:https://github.com/GinkoTyping/architecture/blob/main/readme.md
