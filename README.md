@@ -1,4 +1,4 @@
-## Hi there 👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=GinkoTyping&left_color=green&right_color=red)
+## Hi there 👋  
 
 <!--
 **GinkoTyping/GinkoTyping** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GinkoTyping)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GinkoTyping)](https://github.com/anuraghazra/github-readme-stats)<br>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=GinkoTyping.visitor-badge)
 -->
 💻 Frontend Developer / ✍️ Architect / 📷 [Live Streamer](https://live.bilibili.com/3640586)
 ## About Me
