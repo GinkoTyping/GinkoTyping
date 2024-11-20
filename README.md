@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GinkoTyping)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GinkoTyping)](https://github.com/anuraghazra/github-readme-stats)<br>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=GinkoTyping.visitor-badge)
 -->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GinkoTyping&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
 💻 Frontend Developer / ✍️ Architect / 📷 [Live Streamer](https://live.bilibili.com/3640586)
 ## About Me
 - ⌨️ **Senior Frontend Developer** / Unity learner / Java Learner
