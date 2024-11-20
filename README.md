@@ -32,3 +32,6 @@ Here are some ideas to get you started:
 - 😄 Was an [**architectural designer**](https://github.com/GinkoTyping/architecture/blob/main/readme.md) primarily engaged in industrial architectural design from 2015
 - 🏃 Began my career as a software developer entirely through **self-study** since 2020 and then joined **Huawei** in Shanghai
 - ✈️ Now work as an freelancer, [**open to work**](https://www.upwork.com/freelancers/~01758e5baf6b633c80)
+<br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GinkoTyping&custom_title=One%20line%20a%20day%20keeps%20the%20poverty%20away&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
