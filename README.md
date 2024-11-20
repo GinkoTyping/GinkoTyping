@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 💻 Frontend Developer / ✍️ Architect / 📷 Live Streamer
 ## About Me
 - ⌨️ Senior Frontend Developer / Unity learner / Java Learner
-- 🏃 Was working as an architectural designer, then switched careers to become a software developer
+- 😄 Was an architectural designer primarily engaged in industrial architectural design from 2015
+- 🏃 Began my career as a software developer entirely through self-study since 2020 and then joined Huawei
 - ✈️ Now work as an freelancer, open to work
