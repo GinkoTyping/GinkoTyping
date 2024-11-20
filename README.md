@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GinkoTyping)](https://github.com/anuraghazra/github-readme-stats)<br>
 💻 Frontend Developer / ✍️ Architect / 📷 Live Streamer
 ## About Me
-- ⌨️ Senior Frontend Developer / Unity learner / Java Learner
-- 😄 Was an architectural designer primarily engaged in industrial architectural design from 2015
-- 🏃 Began my career as a software developer entirely through self-study since 2020 and then joined Huawei
-- ✈️ Now work as an freelancer, open to work
+- ⌨️ **Senior Frontend Developer** / Unity learner / Java Learner
+- 😄 Was an **architectural designer** primarily engaged in industrial architectural design from 2015
+- 🏃 Began my career as a software developer entirely through **self-study** since 2020 and then joined **Huawei** in Shanghai
+- ✈️ Now work as an freelancer, **open to work**
