@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GinkoTyping)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GinkoTyping)](https://github.com/anuraghazra/github-readme-stats)<br>
 -->
-💻 Frontend Developer / ✍️ Architect / 📷 Live Streamer
+💻 Frontend Developer / ✍️ Architect / 📷 [Live Streamer](https://live.bilibili.com/3640586)
 ## About Me
 - ⌨️ **Senior Frontend Developer** / Unity learner / Java Learner
 - 😄 Was an [**architectural designer**](https://github.com/GinkoTyping/architecture/blob/main/readme.md) primarily engaged in industrial architectural design from 2015
