@@ -1,4 +1,4 @@
-## Hi there 👋  
+<h2 align="center">👋 Hello! I'm Ginko Lee.</h2>
 
 <!--
 **GinkoTyping/GinkoTyping** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GinkoTyping)](https://github.com/anuraghazra/github-readme-stats)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=GinkoTyping.visitor-badge)
 -->
+<p align="center">💻 Frontend Developer / ✍️ Architect / 📷 Live Streamer</p> 
 
-💻 Frontend Developer / ✍️ Architect / 📷 [Live Streamer](https://live.bilibili.com/3640586)
-## About Me
+<h2 align="center">About Me</h2>
+
 - ⌨️ **Senior Frontend Developer** / Unity learner / Java Learner
 - 😄 Was an [**architectural designer**](https://github.com/GinkoTyping/architecture/blob/main/readme.md) primarily engaged in industrial architectural design from 2015
 - 🏃 Began my career as a software developer entirely through **self-study** since 2020 and then joined **Huawei** in Shanghai
