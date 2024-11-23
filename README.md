@@ -26,7 +26,10 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GinkoTyping)](https://github.com/anuraghazra/github-readme-stats)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=GinkoTyping.visitor-badge)
 -->
-<p align="center">💻 Frontend Developer / ✍️ Architect / 📷 [Live Streamer](https://live.bilibili.com/3640586)</p> 
+
+<p align="center">💻 Frontend Developer / ✍️ Architect / 📷 <a href="https://live.bilibili.com/3640586">
+   Live Streamer
+  </a></p> 
 
 <h2 align="center">About Me</h2>
 
