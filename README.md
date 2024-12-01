@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">About Me</h2>
 
-- ⌨️ **Senior Frontend Developer** / Unity learner / Java Learner
+- ⌨️ **Senior Frontend Developer** / Junior Unity Developer / Junior Java Developer
 - 😄 Was an [**architectural designer**](https://github.com/GinkoTyping/architecture/blob/main/readme.md) primarily engaged in industrial architectural design from 2015
 - 🏃 Began my career as a software developer entirely through **self-study** since 2020 and then joined **Huawei** in Shanghai
 - ✈️ Now work as an freelancer, [**open to work**](https://www.upwork.com/freelancers/~01758e5baf6b633c80)
