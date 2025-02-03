@@ -10,7 +10,6 @@
 - 🚴 **Freelance Developer** (Now～):  
   🏆 100+ completed orders with perfect 5-star ratings  
   📌 Key Platforms: [**UpWork**](https://www.upwork.com/freelancers/~01758e5baf6b633c80) (Global) & Xianyu (Alibaba's C2C marketplace)
-<br>
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
