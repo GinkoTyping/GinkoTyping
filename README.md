@@ -7,7 +7,7 @@
 - 🚴 **Freelance Developer** (Now～):  
   🏆 100+ completed orders with perfect 5-star ratings  
   📌 Key Platforms: [**UpWork**](https://www.upwork.com/freelancers/~01758e5baf6b633c80) (Global) & Xianyu (Alibaba's C2C marketplace)
-- 🌐 **Huawei Shanghai** (2022~2025): Contributed to a carrier-grade network optimization system for global telecom clients.
+- 🌐 **Huawei Shanghai** (2022~2024): Contributed to a carrier-grade network optimization system for global telecom clients.
 - 💻 **Self-Taught Developer** (2019~2021): 2000+ hours invested in mastering modern tech stacks.
 - 🏗️ **Ex-Industrial Architect** (2015~2021): Participated 10+ large-scale [**projects**](https://github.com/GinkoTyping/architecture/blob/main/readme.md) from blueprint to completion.
 
